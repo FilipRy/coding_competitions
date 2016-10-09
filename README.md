@@ -1,4 +1,4 @@
-# Coding_competitions
+# Coding competitions
 This repo contains my solutions for problem sets of various coding competitions.
 
 
